@@ -1,5 +1,5 @@
 # RayCaster
-SFML raycaster in c++
+SFML raycaster made in c++ using DDA
 ![image](https://github.com/Ward42Git/RayCaster/assets/33738768/d5d6f019-f215-4ec3-a650-e30cf7cf6fc8)
 
 
