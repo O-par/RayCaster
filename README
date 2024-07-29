@@ -1,5 +1,35 @@
-SFML raycaster made in C++ using DDA
+# SFML Raycaster in C++
 
-[![Watch the video](https://github.com/Ward42Git/RayCaster/blob/main/thumbnail.png)](https://github.com/Ward42Git/RayCaster/blob/main/trimmed.mp4)
+This project showcases a raycaster implemented in C++ using SFML and the DDA (Digital Differential Analyzer) algorithm.
 
-![Example](https://github.com/Ward42Git/RayCaster/blob/main/pic.png)
+## Preview
+
+![Example](pic.png)
+
+## Watch the Video
+
+[![Watch the video](thumbnail.png)](trimmed.mp4)
+
+## Build and Run
+
+To build and run the project, follow these steps:
+
+1. **Install Dependencies**: Ensure you have SFML installed on your system.
+
+2. **Build the Project**:
+    ```bash
+    make
+    ```
+
+3. **Run the Application**:
+    ```bash
+    ./raycaster
+    ```
+
+## Description
+
+The project demonstrates a raycasting technique using SFML. The video shows the raycaster in action.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
