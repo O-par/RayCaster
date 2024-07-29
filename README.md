@@ -32,6 +32,4 @@ To build and run the project, follow these steps:
 
 The project demonstrates a raycasting technique using SFML. The video shows the raycaster in action.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
