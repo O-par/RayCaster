@@ -10,6 +10,8 @@ This project showcases a raycaster implemented in C++ using SFML and the DDA (Di
 
 [![Watch the video](thumbnail.png)](trimmed.mp4)
 
+Click [here](trimmed.mp4) to view the video.
+
 ## Build and Run
 
 To build and run the project, follow these steps:
